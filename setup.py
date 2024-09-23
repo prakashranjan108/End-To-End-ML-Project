@@ -21,7 +21,7 @@ name="Xray",
 version="0.0.1",
 author="Prakash Ranjan Satyarthi",
 author_email="prakashranjansatyarthi024@gmail.com",
-install_requires=get_requirements(r"E:\\New folder (3)\\equirements_dev.txt"),
+install_requires=get_requirements(r"E:\\New folder (3)\\requirements_dev.txt"),
 package=find_packages()
 
 )
